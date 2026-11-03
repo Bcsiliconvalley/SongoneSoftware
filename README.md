@@ -8,3 +8,7 @@ Contraseña: 123
 Opción 2 (Salvador):
 Usuario: salvador
 Contraseña: 456
+
+installation  requirements
+pip install -r requirements.txt
+ 
