@@ -1,5 +1,8 @@
 streamlit
-pandas
-folium
+streamlit-authenticator>=0.4
 streamlit-folium
-streamlit-authenticatorj
+folium
+pandas
+sqlalchemy>=2.0
+pymysql
+cryptography

@@ -1,0 +1,18 @@
+# Secretos: NUNCA subir
+.streamlit/secrets.toml
+.env
+
+# Versión anterior: los usuarios ahora viven en MySQL
+users.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
